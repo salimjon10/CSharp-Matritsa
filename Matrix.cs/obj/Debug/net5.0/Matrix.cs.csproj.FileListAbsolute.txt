@@ -1,0 +1,12 @@
+C:\Users\Студент\Source\Repos\CSharp-Matritsa\Matrix.cs\bin\Debug\net5.0\Matrix.cs.deps.json
+C:\Users\Студент\Source\Repos\CSharp-Matritsa\Matrix.cs\bin\Debug\net5.0\Matrix.cs.dll
+C:\Users\Студент\Source\Repos\CSharp-Matritsa\Matrix.cs\bin\Debug\net5.0\ref\Matrix.cs.dll
+C:\Users\Студент\Source\Repos\CSharp-Matritsa\Matrix.cs\bin\Debug\net5.0\Matrix.cs.pdb
+C:\Users\Студент\Source\Repos\CSharp-Matritsa\Matrix.cs\obj\Debug\net5.0\Matrix.cs.csproj.AssemblyReference.cache
+C:\Users\Студент\Source\Repos\CSharp-Matritsa\Matrix.cs\obj\Debug\net5.0\Matrix.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Студент\Source\Repos\CSharp-Matritsa\Matrix.cs\obj\Debug\net5.0\Matrix.cs.AssemblyInfoInputs.cache
+C:\Users\Студент\Source\Repos\CSharp-Matritsa\Matrix.cs\obj\Debug\net5.0\Matrix.cs.AssemblyInfo.cs
+C:\Users\Студент\Source\Repos\CSharp-Matritsa\Matrix.cs\obj\Debug\net5.0\Matrix.cs.csproj.CoreCompileInputs.cache
+C:\Users\Студент\Source\Repos\CSharp-Matritsa\Matrix.cs\obj\Debug\net5.0\Matrix.cs.dll
+C:\Users\Студент\Source\Repos\CSharp-Matritsa\Matrix.cs\obj\Debug\net5.0\ref\Matrix.cs.dll
+C:\Users\Студент\Source\Repos\CSharp-Matritsa\Matrix.cs\obj\Debug\net5.0\Matrix.cs.pdb
